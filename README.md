@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on my studies
 - 🌱 I’m currently learning version control
 - 👯 I’m looking to collaborate on web developers
-- 🤔 I’m looking for help with react and redux
 - 💬 Ask me about html, css, javascript
 - 📫 How to reach me: reyharoldm100@gmail.com
 - ⚡ Fun fact: Coding has over 700 languages.
