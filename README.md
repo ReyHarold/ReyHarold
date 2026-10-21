@@ -1,6 +1,5 @@
-- 🔭 I’m currently working on static websites and simple web systems(Manila, Philippines).
-- 🌱 I’m currently learning version control.
-- 👯 I’m looking to collaborate with web developers
-- 💬 Ask me about html, css, javascript
-- 📫 How to reach me: reyharoldm100@gmail.com
+- 🔭 I’m currently working on providing business systems that runs with and without AI.
+- 🌱 I’m currently learning more about data privacy and risk with AI.
+- 👯 I’m looking to collaborate with other businesses. rholdlabs.com
+- 📫 How to reach me: rey@rholdlabs.com
 - ⚡ Fun fact: Coding has over 700 languages.
